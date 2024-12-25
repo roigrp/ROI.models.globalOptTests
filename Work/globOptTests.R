@@ -6,7 +6,7 @@ if (!require(globalOptTests)) install.packages("globalOptTests"); library(global
 tests <- c("Ackleys", "AluffiPentini", "BeckerLago", "Bohachevsky1", "Bohachevsky2", 
            "Branin", "Camel3", "Camel6", "CosMix2", "CosMix4", "DekkersAarts", 
            "Easom", "EMichalewicz", "Expo", "GoldPrice", "Griewank", "Gulf",
-           "Hartman6", "Hosaki", "Kowalik", "LM1", "LM2n10", "LM2n5", "McCormic",
+           "Hosaki", "Kowalik", "LM1", "LM2n10", "LM2n5", "McCormic",
            "MeyerRoth", "MieleCantrell", "Modlangerman", "ModRosenbrock", "MultiGauss", 
            "Neumaier2", "Neumaier3", "Paviani", "Periodic", "PowellQ", "PriceTransistor", 
            "Rastrigin", "Rosenbrock", "Salomon", "Schaffer1", "Schaffer2", "Schubert", 
